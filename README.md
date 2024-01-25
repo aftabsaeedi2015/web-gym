@@ -13,7 +13,3 @@ framer-motion
 mongodb
 
 
-#demo 
-demo included in the root directory of the repo
-
-
