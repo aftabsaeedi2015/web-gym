@@ -1,6 +1,6 @@
 
 
-**# fully responsive gym website**
+**fully responsive gym website**
 
 **features and functionalities**: 
 authentication, opting for a membership plan and gym classes  and some more 
@@ -9,15 +9,16 @@ authentication, opting for a membership plan and gym classes  and some more
 **technologies** : 
 javascript React, material ui , framer-motion, mongodb
 
-**video Link** : 
-https://youtu.be/1bnjSniqK1Q , 
-https://youtu.be/HDrQiXiJt8E 
+**video Link** : <br/>
+desktop: https://youtu.be/1bnjSniqK1Q <br/>
+mobile: https://youtu.be/HDrQiXiJt8E 
 
-**how to run the application locally** : 
-backend : navigate to the backend directory and run the command "node .\server.js"
-frontend: navigate to the frontend directory and run the command "npm start"
+**how to run the application locally** :<br/>
 
-**here are some screenshots of the application, watch the video above to know what the application looks like ** :
+**backend :** navigate to the backend directory and run the command "node .\server.js" <br/>
+**frontend:** navigate to the frontend directory and run the command "npm start":<br/>
+
+**here are some screenshots of the application, watch the video above to know what the application looks and functions** :
 
 ![classes page](https://github.com/aftabsaeedi2015/web-gym/assets/98703410/95bb59dd-d016-4eaf-abac-9eb4bfc750fd)
 ![signup](https://github.com/aftabsaeedi2015/web-gym/assets/98703410/afb6fa4e-ad0e-4c7c-ba98-1861ab1b143e)
